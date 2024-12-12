@@ -13,3 +13,6 @@ Requisitos
 GTK 3.0
 GCC (MinGW para Windows)
 Glade para criação da interface gráfica (opcional, mas recomendado)
+
+FEITO POR:
+EMMANOEL BARBOSA, ERYCK EMMANUEL, JOSÉ LÚCIO, RANIE LINS.
