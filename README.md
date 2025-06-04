@@ -1,4 +1,4 @@
-# Sistema de Gerenciamento Simples com GTK (Projeto Hemir)
+# Sistema de Gerenciamento Simples com GTK 
 
 Este é um programa de desktop simples desenvolvido em C com a biblioteca GTK+ 3. Ele oferece funcionalidades básicas de login de usuário e gerenciamento de registros (CRUD - Criar, Ler, Atualizar, Deletar), com os dados sendo armazenados em arquivos de texto locais. A interface gráfica é carregada a partir de um arquivo Glade (`projeto_hemir.glade`).
 
